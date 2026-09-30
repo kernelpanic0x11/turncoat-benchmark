@@ -1,0 +1,8 @@
+# local noise
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+node_modules/
+outputs/
