@@ -81,7 +81,9 @@ attack AND left the benign twin working."
 
 ## Status
 
-- **This repo:** the open corpus + methodology (v1, five classes).
+- **This repo:** the open corpus + methodology (v1, five classes). Cases cover
+  multiple carriers, including files, issue bodies, tool/MCP output, and web content.
+- **Next:** two new classes, `delegated_trust` and `persistence`. See [ROADMAP.md](ROADMAP.md).
 - **Coming:** a reference runner and target adapters. These are held back until the
   in-flight vendor disclosures they were built against are resolved.
 
